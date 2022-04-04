@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 # **Reading Notes** 
-[GitHub Reading Notes](https://github.com/hind-hb/reading_note11.github.io/edit/gh-pages/README.md)
+[GitHub Reading Notes](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/README.md)
 ## *This website contains the contents of the course.*
 ## *Code 102 - Intro to Software Development*
 
