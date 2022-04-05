@@ -26,6 +26,7 @@
 | READ12  |[LINK](https://github.com/hind-hb/reading-notes/blob/main/Read12.md)  |
 | READ13  |[LINK](https://github.com/hind-hb/reading-notes/blob/main/Read13.md)  |
 | READ14  |[LINK](https://github.com/hind-hb/reading-notes/blob/main/Read14.md)  |
+| READ15  |[LINK](https://github.com/hind-hb/reading-notes/blob/main/Read15.md)  |
 
 ## *Code 201 - Foundations of Software Development*
 
