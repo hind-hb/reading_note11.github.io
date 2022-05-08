@@ -1,4 +1,4 @@
-# Read: 26 - Readings: Django Models
+# Read: 27 - Readings: Django Models
 
 
 
