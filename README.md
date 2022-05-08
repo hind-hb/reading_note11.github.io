@@ -30,6 +30,7 @@
 | READ16  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read16.md)  |
 | READ17  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read17.md)  |
 | READ26  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read26.md)  |
+| READ27  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read27.md)  |
 
 ## *Code 201 - Foundations of Software Development*
 
