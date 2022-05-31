@@ -1,4 +1,9 @@
 # Read: 34 - Readings: API Deployment
+
+
+
+
+
 # Configuring Django Settings: Best Practices
 
 > Managing Django Settings: Issues
@@ -63,11 +68,6 @@ DATABASES = {
 - The Django settings file is a Python code, so settings_local.py can have some non-obvious logic.
 - You need to have settings_local.example (in VCS) to share the default configurations for developers.
 
-
-## Contact Info : 
-**Please Feel Free To Contact Me When You Need help ^_^**
-* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
-* Email : aghyadalbalkhi@gmail.com
 
 
 
