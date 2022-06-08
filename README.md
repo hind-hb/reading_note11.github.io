@@ -40,6 +40,7 @@
 | READ35  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read35.md)  |
 | READ36  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read36.md)  |
 | READ37  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read37.md)  |
+| READ38  |[LINK](https://github.com/hind-hb/reading_note11.github.io/blob/gh-pages/Read38.md)  |
 
 ## *Code 201 - Foundations of Software Development*
 
